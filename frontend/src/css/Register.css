@@ -1,0 +1,18 @@
+#register-body{
+    background-repeat: repeat;
+    background-image: url('images/registerationImage.jpg');
+}
+#appnavbar{
+    background-color: #04080ecc;
+}
+
+#register-form{
+    font-size: medium;
+    position: relative;
+    margin:5px auto;
+    padding: 30px;
+    width: 50%;
+    border-radius: 10px;
+    color: #ffffff;
+    background-color: #000000da;
+}

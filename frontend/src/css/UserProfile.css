@@ -1,0 +1,25 @@
+page-body{
+    height: 100%;
+}
+nav{
+    background-color: rgb(54, 54, 56);
+    height: fit-content;
+}
+row{
+    height: 100%;
+}
+
+#user-form{
+    margin-left: -50px;
+    margin-right: 50px;
+    width: 700px;
+}
+#user-form Button{
+    margin:auto;
+    width: 50%;
+}
+
+
+#user-form Label{
+    font-size: medium;
+}

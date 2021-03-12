@@ -1,0 +1,19 @@
+ul{
+    display:inline-block;
+}
+
+.navbar-brand{
+    font-size:x-large;
+}
+.nav-link,a {
+    color: rgb(247, 247, 247);
+    padding-left: 20px;
+}
+.nav-link:hover,a:hover { 
+    color:#e9e991;
+    
+ }
+
+.nav-link:hover{
+    background-color: #535050;
+}

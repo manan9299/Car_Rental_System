@@ -1,0 +1,10 @@
+#payment-form{
+
+    padding: 50px;
+    background-image: url('./images/payment.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#payment-form #card{
+    padding-left: 10px;
+}
